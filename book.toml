@@ -1,0 +1,6 @@
+[book]
+authors = ["Kasi Chennupati"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Data Projects Index"
